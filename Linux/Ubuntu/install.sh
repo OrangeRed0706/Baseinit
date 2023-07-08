@@ -1,5 +1,5 @@
 #!/bin/bash
-#curl -sSL https://raw.githubusercontent.com/OrangeRed0706/Baseinit/main/Linux/Ubuntu/install.sh | bash
+# curl -sSL https://raw.githubusercontent.com/OrangeRed0706/Baseinit/main/Linux/Ubuntu/install.sh | bash
 # Update the source list
 sudo apt-get update
 
